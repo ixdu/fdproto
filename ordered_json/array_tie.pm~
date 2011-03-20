@@ -1,0 +1,3 @@
+package ordered_json::array_tie;
+
+return 1;

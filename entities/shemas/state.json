@@ -1,0 +1,25 @@
+{
+    "_children" : "region",
+
+    "name" : 
+    {
+	"type" : "string",
+	"prop" : { "type" : "string" }
+	
+    },
+
+    "description" :
+    {
+	"type" : "string"
+    },
+    
+    "icon" :
+    {
+	"type" : "image_path"
+    },
+
+    "container" :
+    {
+	"type" : "container_region"
+    }
+}
